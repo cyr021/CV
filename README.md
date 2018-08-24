@@ -1,4 +1,4 @@
-![](Curriculum-Vitae/11.jpg)
+![Yanrong Cai](Curriculum-Vitae/11.jpg);
 ## EDUCATION
 2016-Present
 - Candidate for Master of Surgery (Orthopedics)
