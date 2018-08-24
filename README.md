@@ -23,20 +23,17 @@
 - **National Invention Patent in China**: Lu, F., Xiang, Q., Li, Z., He, X., Hao, L., Tang, S., **Cai, Y.**, & Li, Y. A method to produce forage via fermentation of dregs from Liu Wei Di Huang Wan, No.CN201310736812.8, 2014.
 
 ## WORKING EXPERIENCES
-08/2016-Present
-- Shanghai Tenth People’s Hospital of Tongji University
-Surgical Resident Doctor
+Shanghai Tenth People’s Hospital of Tongji University
+- 08/2016-Present Surgical Resident Doctor
   - Did rotations in different Surgical departments including spinal surgery, trauma orthopedics, abdominal surgery, thyroid and breast surgery, etc., had a deeper understanding of the diseases like osteoarthritis, ankylosing spondylitis, thyroid and breast tumors, and metabolic syndrome, etc. 
   - Participated in disease diagnosis and treatment, and assisted professors in completing surgeries.
   - Consolidated the skills of surgical procedures (scrubbing, sterile gowning and gloving, suturing, incising), imaging diagnosis, femoral central venous catheterization, CPR, etc.
 
 Shanghai Changhai Hospital of Second Military Medical University       
-07/2012-09/201
-Medical Intern
-- Learned basics surgical skills: scrubbing, sterile gowning and gloving, draping, suturing
-04/2015-07/2015
-Intern Doctor                                                     
-- Finished clinical rotations in the departments of internal medicine, surgery, obstetrics and gynecology, rheumatology, and mastered the basic skills of medical history collection, physical examination, imaging diagnosis, medical treatment, etc. 
+- 07/2012-09/201 Medical Intern
+  - Learned basics surgical skills: scrubbing, sterile gowning and gloving, draping, suturing
+- 04/2015-07/2015 Intern Doctor                                                     
+  - Finished clinical rotations in the departments of internal medicine, surgery, obstetrics and gynecology, rheumatology, and mastered the basic skills of medical history collection, physical examination, imaging diagnosis, medical treatment, etc. 
 
 ## RESEARCH EXPERIENCES
 **Study on Roles of NF-ΚB Signaling Pathways in Ligament Ossification in Ankylosing Spondylitis(AS)**                                    03/2013-07/2015
@@ -68,12 +65,12 @@ Hunan Province College Students Research Learning and Innovation Experimental Pr
 - Performed clinical evaluation of the development of AIA rats, including disease progression and severity by arthritic scoring on scheduled points. Lesions on all four paws of each rat were graded from 0 to 4 according to the extent of both edema and erythema of the periarticular tissues.
 
 ## SELECTED HONORS & AWARDS
-Excellent Graduate of Hunan Province 2016
-Second-Class Scholarship of HUCM (Three times) 2012; 2013; 2015
-Third Prize of HUCM College Students' Functional Science Experiment Skill Contest  2013
-Second Prize of HUCM College Students' Innovation Forum and Experimental Design Competition                                          2013
-Excellent Worker of School of Medicine, HUCM (Twice)  2011; 2012
-Merit Student of HUCM    
+- Excellent Graduate of Hunan Province 2016
+- Second-Class Scholarship of HUCM (Three times) 2012; 2013; 2015
+- Third Prize of HUCM College Students' Functional Science Experiment Skill Contest  2013
+- Second Prize of HUCM College Students' Innovation Forum and Experimental Design Competition                                          2013
+- Excellent Worker of School of Medicine, HUCM (Twice)  2011; 2012
+- Merit Student of HUCM    
 
 ## OTHER INFORMATION
 **Technical Skills** 
