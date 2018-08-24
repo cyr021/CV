@@ -76,15 +76,15 @@ Shanghai Changhai Hospital of Second Military Medical University
 
 ## OTHER INFORMATION
 - **Technical Skills** 
-MS Office Software, Image-Pro Plus, GraphPad Prism
+  - MS Office Software, Image-Pro Plus, GraphPad Prism
 - **Qualification**
-Successfully Passed 2017 Clinic Practicing Physician Examination in China
+  - Successfully Passed 2017 Clinic Practicing Physician Examination in China
 - **CITI Program Course**
-Completed Human Research Data or Specimens Only Research 1-Basic Course (set by Massachusetts Institute of Technology Affiliates)
+  - Completed Human Research Data or Specimens Only Research 1-Basic Course (set by Massachusetts Institute of Technology Affiliates)
 - **Volunteer Activity**
-Offered Charity Clinics in Lianfeng Community, Hunan, China
+  - Offered Charity Clinics in Lianfeng Community, Hunan, China
 - **Hobbies**
-Tennis, Swimming, Calligraphy, Seal Cutting
+  - Tennis, Swimming, Calligraphy, Seal Cutting
 
 
 
