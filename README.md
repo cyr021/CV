@@ -24,20 +24,19 @@
 
 ## WORKING EXPERIENCES
 Shanghai Tenth People’s Hospital of Tongji University
-- 08/2016-Present Surgical Resident Doctor
+- 08/2016-Present: Surgical Resident Doctor
   - Did rotations in different Surgical departments including spinal surgery, trauma orthopedics, abdominal surgery, thyroid and breast surgery, etc., had a deeper understanding of the diseases like osteoarthritis, ankylosing spondylitis, thyroid and breast tumors, and metabolic syndrome, etc. 
   - Participated in disease diagnosis and treatment, and assisted professors in completing surgeries.
   - Consolidated the skills of surgical procedures (scrubbing, sterile gowning and gloving, suturing, incising), imaging diagnosis, femoral central venous catheterization, CPR, etc.
 
 Shanghai Changhai Hospital of Second Military Medical University       
-- 07/2012-09/201 Medical Intern
+- 07/2012-09/201: Medical Intern
   - Learned basics surgical skills: scrubbing, sterile gowning and gloving, draping, suturing
-- 04/2015-07/2015 Intern Doctor                                                     
+- 04/2015-07/2015: Intern Doctor                                                     
   - Finished clinical rotations in the departments of internal medicine, surgery, obstetrics and gynecology, rheumatology, and mastered the basic skills of medical history collection, physical examination, imaging diagnosis, medical treatment, etc. 
 
 ## RESEARCH EXPERIENCES
-**Study on Roles of NF-ΚB Signaling Pathways in Ligament Ossification in Ankylosing Spondylitis(AS)**                                    03/2013-07/2015
-National College Students Innovation and Entrepreneurship Training Program
+**Study on Roles of NF-ΚB Signaling Pathways in Ligament Ossification in Ankylosing Spondylitis(AS)**                                    - 03/2013-07/2015: National College Students Innovation and Entrepreneurship Training Program
 **Advisor**: Prof. Lu Fangguo
 **Position**: Project Designer and Leader of 3-Member Group
 **Responsibilities**: 
@@ -47,8 +46,7 @@ National College Students Innovation and Entrepreneurship Training Program
 Innovation: Explored the molecular mechanism of AS ligament ossification, used AS fibroblasts as target cells to study the molecular mechanism of pathological osteogenesis
 
 **Study on advanced Bio-composite Scaffolds of Mesoporous Bioactive Glass Containing Different Metal Ions and mPEG-PLGA-PLL Copolymer for Bone Defect Repair**             
-07/2012-06/2017
-Shanghai Changhai Hospital Innovation and Research Project
+- 07/2012-06/2017: Shanghai Changhai Hospital Innovation and Research Project
 **Advisor**: Prof. Niu Yunfei
 **Position**: Main participator of 5-Member Group
 **Responsibilities**: 
@@ -56,8 +54,7 @@ Shanghai Changhai Hospital Innovation and Research Project
 - Mainly performed the in vivo experiments and verified the osteogenic effects of new materials, established rabbit’s hind limb bone defect models and implanted the bio-composites
 - Finished histological evaluation of osteogenic effects of new materials after implantation in vivo, and did quantitative analysis of differences in new bone formation area between mesoporous and control group using Image-Pro Plus 6.0 and GraphPad Prism
 
-**The Anti-arthritic Effect and Molecular Mechanisms of Natural Compounds in Chinese Herbal Formula against Rheumatoid Arthritis(RA)**   09/2014-05/2016
-Hunan Province College Students Research Learning and Innovation Experimental Project
+**The Anti-arthritic Effect and Molecular Mechanisms of Natural Compounds in Chinese Herbal Formula against Rheumatoid Arthritis(RA)**   - 09/2014-05/2016: Hunan Province College Students Research Learning and Innovation Experimental Project
 **Advisor**: Prof. Cai Xiong
 **Responsibilities**: 
 - Studied the establishment of RA animal models and pharmacodynamics evaluation methods in Hunan Provincial Key Laboratory of Diagnostics of Chinese Medicine, and read references on anti-inflammatory and immunomodulatory effects of natural compounds of traditional Chinese medicine and related signaling pathways
@@ -73,15 +70,15 @@ Hunan Province College Students Research Learning and Innovation Experimental Pr
 - Merit Student of HUCM    
 
 ## OTHER INFORMATION
-**Technical Skills** 
+- **Technical Skills** 
 MS Office Software, Image-Pro Plus, GraphPad Prism
-**Qualification**
+- **Qualification**
 Successfully Passed 2017 Clinic Practicing Physician Examination in China
-**CITI Program Course**
+- **CITI Program Course**
 Completed Human Research Data or Specimens Only Research 1-Basic Course (set by Massachusetts Institute of Technology Affiliates)
-**Volunteer Activity**
+- **Volunteer Activity**
 Offered Charity Clinics in Lianfeng Community, Hunan, China
-**Hobbies**
+- **Hobbies**
 Tennis, Swimming, Calligraphy, Seal Cutting
 
 
