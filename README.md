@@ -39,32 +39,32 @@ Shanghai Changhai Hospital of Second Military Medical University
 **Study on Roles of NF-ΚB Signaling Pathways in Ligament Ossification in Ankylosing Spondylitis(AS)**   
 
 - 03/2013-07/2015: National College Students Innovation and Entrepreneurship Training Program
-**Advisor**: Prof. Lu Fangguo
-**Position**: Project Designer and Leader of 3-Member Group
-**Responsibilities**: 
-- Studied references about AS pathogenesis, animal model, and NF-κB signaling pathway, learned the skills of laboratory animal techniques, IHC, ELISA, DNA and protein extraction, and western blotting, and designed the research subject.
-- Obtained clinical specimens of patients with AS undergoing hip replacement, utilized IHC to detect expression of NF-κB signaling pathway transcription factor p65, downstream gene A20 and Wnt signaling pathway transcription factor β-catenin and osteogenic signal osteocalcin in hip ligament tissues.
-- Quantified the protein expression in IHC images by imageplus6.0, and did statistic analysis on the expression differences of p65, A20, OCN and β-catenin proteins in AS and control groups using SPSS.
-Innovation: Explored the molecular mechanism of AS ligament ossification, used AS fibroblasts as target cells to study the molecular mechanism of pathological osteogenesis
+  - **Advisor**: Prof. Lu Fangguo
+  - **Position**: Project Designer and Leader of 3-Member Group
+  - **Responsibilities**: 
+    - Studied references about AS pathogenesis, animal model, and NF-κB signaling pathway, learned the skills of laboratory animal techniques, IHC, ELISA, DNA and protein extraction, and western blotting, and designed the research subject.
+    - Obtained clinical specimens of patients with AS undergoing hip replacement, utilized IHC to detect expression of NF-κB signaling pathway transcription factor p65, downstream gene A20 and Wnt signaling pathway transcription factor β-catenin and osteogenic signal osteocalcin in hip ligament tissues.
+    - Quantified the protein expression in IHC images by imageplus6.0, and did statistic analysis on the expression differences of p65, A20, OCN and β-catenin proteins in AS and control groups using SPSS.
+    - Innovation: Explored the molecular mechanism of AS ligament ossification, used AS fibroblasts as target cells to study the molecular mechanism of pathological osteogenesis
 
 **Study on advanced Bio-composite Scaffolds of Mesoporous Bioactive Glass Containing Different Metal Ions and mPEG-PLGA-PLL Copolymer for Bone Defect Repair**             
 
 - 07/2012-06/2017: Shanghai Changhai Hospital Innovation and Research Project
-**Advisor**: Prof. Niu Yunfei
-**Position**: Main participator of 5-Member Group
-**Responsibilities**: 
-- Designed the Li-containing mesoporous bioglass/mPEG-PLGA-PLL bio-composite scaffold cooperated with materials experts, and learned modeling methods of rabbit bone defect by surgery, and techniques of bone tissue H&E staining, 3D scaffold cell culture 
-- Mainly performed the in vivo experiments and verified the osteogenic effects of new materials, established rabbit’s hind limb bone defect models and implanted the bio-composites
-- Finished histological evaluation of osteogenic effects of new materials after implantation in vivo, and did quantitative analysis of differences in new bone formation area between mesoporous and control group using Image-Pro Plus 6.0 and GraphPad Prism
+  - **Advisor**: Prof. Niu Yunfei
+  - **Position**: Main participator of 5-Member Group
+  - **Responsibilities**: 
+    - Designed the Li-containing mesoporous bioglass/mPEG-PLGA-PLL bio-composite scaffold cooperated with materials experts, and learned modeling methods of rabbit bone defect by surgery, and techniques of bone tissue H&E staining, 3D scaffold cell culture 
+    - Mainly performed the in vivo experiments and verified the osteogenic effects of new materials, established rabbit’s hind limb bone defect models and implanted the bio-composites
+    - Finished histological evaluation of osteogenic effects of new materials after implantation in vivo, and did quantitative analysis of differences in new bone formation area between mesoporous and control group using Image-Pro Plus 6.0 and GraphPad Prism
 
 **The Anti-arthritic Effect and Molecular Mechanisms of Natural Compounds in Chinese Herbal Formula against Rheumatoid Arthritis(RA)** 
 
 - 09/2014-05/2016: Hunan Province College Students Research Learning and Innovation Experimental Project
-**Advisor**: Prof. Cai Xiong
-**Responsibilities**: 
-- Studied the establishment of RA animal models and pharmacodynamics evaluation methods in Hunan Provincial Key Laboratory of Diagnostics of Chinese Medicine, and read references on anti-inflammatory and immunomodulatory effects of natural compounds of traditional Chinese medicine and related signaling pathways
-- Established experimental models of arthritis in rats and induced the adjuvant-induced arthritis (AIA) by a single subcutaneous injection of the ground mycobacterium tuberculosis (MT) suspension 
-- Performed clinical evaluation of the development of AIA rats, including disease progression and severity by arthritic scoring on scheduled points. Lesions on all four paws of each rat were graded from 0 to 4 according to the extent of both edema and erythema of the periarticular tissues.
+  - **Advisor**: Prof. Cai Xiong
+  - **Responsibilities**: 
+    - Studied the establishment of RA animal models and pharmacodynamics evaluation methods in Hunan Provincial Key Laboratory of Diagnostics of Chinese Medicine, and read references on anti-inflammatory and immunomodulatory effects of natural compounds of traditional Chinese medicine and related signaling pathways
+    - Established experimental models of arthritis in rats and induced the adjuvant-induced arthritis (AIA) by a single subcutaneous injection of the ground mycobacterium tuberculosis (MT) suspension 
+    - Performed clinical evaluation of the development of AIA rats, including disease progression and severity by arthritic scoring on scheduled points. Lesions on all four paws of each rat were graded from 0 to 4 according to the extent of both edema and erythema of the periarticular tissues.
 
 ## SELECTED HONORS & AWARDS
 - Excellent Graduate of Hunan Province 2016
