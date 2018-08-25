@@ -9,7 +9,7 @@
   - Hunan University of Chinese Medicine (HUCM)
 
 ## PUBLICATIONS & PATENTS
-- [**Cai, Y.**, Guo, L., Shen, H., An, X., Jiang, H., Ji, F., & Niu, Y. Degradability, bioactivity, and osteogenesis of biocomposite scaffolds of lithium-containiD.docxng mesoporous bioglass and mPEG-PLGA-b-PLL copolymer. International journal of nanomedicine. 2015, 10, 4125-4136.](D.pdf) 
+- [**Cai, Y.**, Guo, L., Shen, H., An, X., Jiang, H., Ji, F., & Niu, Y. Degradability, bioactivity, and osteogenesis of biocomposite scaffolds of lithium-containiD.docxng mesoporous bioglass and mPEG-PLGA-b-PLL copolymer. International journal of nanomedicine. 2015, 10, 4125-4136.](Li-MBG.pdf) 
 - **Cai, Y.**, Li, L., & Lu, F. Roles of nuclear factor-κB signaling pathway in patients with rheumatoid arthritis. Medical journal of Chinese people's health. 2015, 27(16), 70-72. (In Chinese)
 - **Cai, Y.**, & Xu, W. Review on the relationship between inflammation and ossification in ankylosing spondylitis based on ossification-related signaling pathways. Chinese journal of rheumatology. 2015, 19(6), 428-431. (In Chinese)
 - Peng, G., **Cai, Y.**, Li, M., Xiang, K., & Chen, L. Research progress of signaling pathways in renal interstitial fibrosis. Progress in modern biomedicine. 2015, 15(24), 4794-4796. (In Chinese)
@@ -79,7 +79,7 @@ Shanghai Changhai Hospital of Second Military Medical University
   - MS Office Software, Image-Pro Plus, GraphPad Prism
 - **Qualification**
   - Successfully Passed 2017 Clinic Practicing Physician Examination in China
-- [**CITI Program Course**](certification.pdf)
+- **CITI Program Course**
   - [Completed Human Research Data or Specimens Only Research 1-Basic Course (set by Massachusetts Institute of Technology Affiliates)](certification.pdf)
 - **Volunteer Activity**
   - Offered Charity Clinics in Lianfeng Community, Hunan, China
