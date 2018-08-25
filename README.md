@@ -1,12 +1,12 @@
 ![Yanrong Cai](11.jpg)
 ## EDUCATION
 2016-Present
-- Candidate for Master of Surgery (Orthopedics)
+- Candidate for Master of Medicine in Surgery (Orthopedics)
   - Tongji University School of Medicine
 
 2011-2016
-- Bachelor of Medicine
-  - Hunan University of Chinese Medicine
+- Bachelor of Medicine in Clinical Medicine
+  - Hunan University of Chinese Medicine (HUCM)
 
 ## PUBLICATIONS & PATENTS
 - **Cai, Y.**, Guo, L., Shen, H., An, X., Jiang, H., Ji, F., & Niu, Y. Degradability, bioactivity, and osteogenesis of biocomposite scaffolds of lithium-containing mesoporous bioglass and mPEG-PLGA-b-PLL copolymer. International journal of nanomedicine. 2015, 10, 4125-4136. 
@@ -68,10 +68,11 @@ Shanghai Changhai Hospital of Second Military Medical University
 ## SELECTED HONORS & AWARDS
 - Excellent Graduate of Hunan Province 2016
 - Second-Class Scholarship of HUCM (Three times) 2012; 2013; 2015
+- First Prize of HUCM College Students' Annual Tennis Competition 2011
 - Third Prize of HUCM College Students' Functional Science Experiment Skill Contest  2013
-- Second Prize of HUCM College Students' Innovation Forum and Experimental Design Competition                                          2013
+- Second Prize of HUCM College Students' Innovation Forum and Experimental Design Competition 2013
 - Excellent Worker of School of Medicine, HUCM (Twice)  2011; 2012
-- Merit Student of HUCM    
+- Merit Student of HUCM  2012; 2013    
 
 ## OTHER INFORMATION
 - **Technical Skills** 
