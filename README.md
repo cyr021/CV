@@ -1,4 +1,4 @@
-![Yanrong Cai](11.jpg)
+![Cai Yanrong's CV](11.jpg)
 ## EDUCATION
 2016-Present
 - Candidate for Master of Medicine in Surgery (Orthopedics)
