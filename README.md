@@ -79,7 +79,7 @@ Shanghai Changhai Hospital of Second Military Medical University
   - MS Office Software, Image-Pro Plus, GraphPad Prism
 - **Qualification**
   - Successfully Passed 2017 Clinic Practicing Physician Examination in China
-- **CITI Program Course**
+- [**CITI Program Course**](certification.pdf)
   - Completed Human Research Data or Specimens Only Research 1-Basic Course (set by Massachusetts Institute of Technology Affiliates)
 - **Volunteer Activity**
   - Offered Charity Clinics in Lianfeng Community, Hunan, China
